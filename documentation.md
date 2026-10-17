@@ -1,10 +1,10 @@
 # Project Documentation: Student Performance Analytics System
 
 **Student Name:** Akash Sharma  
-**Roll Number:** []  
-**Course/Department:** [BTech CSE]  
-**Submission Date:** [15/10/26]  
-**GitHub Repository:** [Paste your repository URL after uploading]
+**Roll Number:**  2503600109003
+**Course/Department:** BTech CSE
+**Submission Date:** 15/10/26  
+**GitHub Repository:** https://github.com/akashsharmain89/student-performance-analytics/tree/main
 
 ## 1. Project Title
 Student Performance Analytics System
@@ -40,23 +40,15 @@ The project includes 20 sample student records. Columns include Student ID, Name
 - Top-five student ranking.
 - Export of processed results to a CSV file.
 
-## 7. Output / Screenshots
-After running `python main.py`, add screenshots of:
-- The dataset preview in the terminal.
-- Overall summary and subject-wise averages.
-- Top-performing students and department-wise averages.
-- The generated `student_analysis_results.csv` file.
 
-Do not insert screenshots until you have run the program yourself.
-
-## 8. Final Outcome
+## 7. Final Outcome
 The program turns raw student records into a readable performance summary. It helps identify class-level trends, strong subjects, students needing support and top performers.
 
-## 9. Challenges & Learning
+## 8. Challenges & Learning
 This project practices reading CSV data, working with DataFrames and NumPy arrays, writing reusable functions, using loops and conditions, grouping records, and saving processed results. A possible challenge is keeping column names consistent between the CSV and Python code; the loader checks required columns to help catch this issue.
 
 ## 10. GitHub Repository
-Repository URL: [Paste your GitHub repository URL here after uploading]
+Repository URL:https://github.com/akashsharmain89/student-performance-analytics/tree/main
 
 ## Important
 The names and marks provided are demonstration data. Personalize the student details, run and verify the program, capture genuine output screenshots, and ensure the report accurately reflects any changes you make.
