@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Mathematics,Data_Analysis,AI_Basics,Attendance_Percent,Total_Marks,Average_Marks,Grade,Result
+STU001,Aarav Sharma,CSE,85,78,92,88,95,343,85.75,A,Pass
+STU002,Priya Verma,CSE,91,89,94,96,98,370,92.5,A+,Pass
+STU003,Rahul Singh,ECE,67,72,70,74,82,283,70.75,B,Pass
+STU004,Ananya Gupta,IT,88,93,86,90,91,357,89.25,A,Pass
+STU005,Vikram Yadav,ME,56,61,59,64,75,240,60.0,C,Pass
+STU006,Sneha Mishra,CSE,95,97,93,98,99,383,95.75,A+,Pass
+STU007,Rohan Patel,ECE,73,68,76,71,80,288,72.0,B,Pass
+STU008,Ishita Jain,IT,82,85,88,84,94,339,84.75,A,Pass
+STU009,Aditya Kumar,ME,42,48,51,45,68,186,46.5,F,Pass
+STU010,Kavya Das,CSE,77,81,79,83,89,320,80.0,A,Pass
+STU011,Arjun Mehta,IT,64,59,66,62,72,251,62.75,C,Pass
+STU012,Meera Joshi,ECE,90,87,91,89,96,357,89.25,A,Pass
+STU013,Kabir Ali,ME,35,41,38,44,60,158,39.5,F,Fail
+STU014,Nisha Roy,CSE,86,84,90,87,93,347,86.75,A,Pass
+STU015,Dev Malhotra,IT,71,75,69,73,85,288,72.0,B,Pass
+STU016,Pooja Sinha,ECE,58,55,62,60,78,235,58.75,D,Pass
+STU017,Manav Kapoor,CSE,80,76,84,82,90,322,80.5,A,Pass
+STU018,Diya Nair,IT,93,90,95,92,97,370,92.5,A+,Pass
+STU019,Yash Thakur,ME,49,52,46,55,66,202,50.5,D,Pass
+STU020,Tanya Bose,ECE,78,83,80,79,88,320,80.0,A,Pass

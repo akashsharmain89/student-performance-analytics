@@ -1,0 +1,53 @@
+
+DATASET PREVIEW
+Student_ID         Name Department  Python  Mathematics  Data_Analysis  AI_Basics  Attendance_Percent
+    STU001 Aarav Sharma        CSE      85           78             92         88                  95
+    STU002  Priya Verma        CSE      91           89             94         96                  98
+    STU003  Rahul Singh        ECE      67           72             70         74                  82
+    STU004 Ananya Gupta         IT      88           93             86         90                  91
+    STU005 Vikram Yadav         ME      56           61             59         64                  75
+
+==================================================================
+STUDENT PERFORMANCE ANALYTICS SYSTEM
+==================================================================
+Total students       : 20
+Students passed      : 19
+Students failed      : 1
+Class average        : 74.49
+Highest student avg  : 95.75
+Lowest student avg   : 39.50
+
+SUBJECT-WISE AVERAGE
+Python              : 73.00
+Mathematics         : 73.70
+Data Analysis       : 75.45
+AI Basics           : 75.80
+
+TOP 5 PERFORMING STUDENTS
+Student_ID         Name Department  Average_Marks Grade
+    STU006 Sneha Mishra        CSE          95.75    A+
+    STU002  Priya Verma        CSE          92.50    A+
+    STU018    Diya Nair         IT          92.50    A+
+    STU004 Ananya Gupta         IT          89.25     A
+    STU012  Meera Joshi        ECE          89.25     A
+
+DEPARTMENT-WISE AVERAGE
+Department
+CSE    86.88
+IT     80.25
+ECE    74.15
+ME     49.12
+
+Full results saved to: student_analysis_results.csv
+
+ERRORS:
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 718, in _warm_feature_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 509, in _warm_drawing_and_image_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/generated/interface/models.py", line 32861, in bring_to_front
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/remote.py", line 764, in __call__
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/client.py", line 175, in call
+artifact_tool.rpc.client.RemoteError: Element ordering requires an owning element collection.
