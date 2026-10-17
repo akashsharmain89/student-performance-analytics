@@ -1,6 +1,6 @@
 # Student Performance Analytics System
 
-A beginner-friendly Python mini project that analyzes student marks using **Python, NumPy and Pandas**.
+A Python mini project that analyzes student marks using **Python, NumPy and Pandas**.
 
 ## Features
 - Reads student records from `students.csv` into a Pandas DataFrame.
@@ -49,5 +49,4 @@ A beginner-friendly Python mini project that analyzes student marks using **Pyth
 ## Dataset note
 The included names and marks are sample data created for demonstration. Replace or edit them if your instructor expects your own dataset. Update this README/report if you change the implementation.
 
-## GitHub submission
-Create a public repository named `student-performance-analytics` (or as instructed by your trainer), upload the project files, verify the files are visible, and submit the repository URL through the course Google Form. Do not forget to add your own student details where required.
+
